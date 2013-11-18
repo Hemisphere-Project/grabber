@@ -1,0 +1,8 @@
+# Cookies for domains related to novius.net.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt http://h5482.novius.net/admin/?tab=admin/promenade/utilisateur/crud/insert_update/13
+#
+h5482.novius.net	FALSE	/	FALSE	1386431120.813359	remember_me	1
+h5482.novius.net	FALSE	/	FALSE	1386431120.813584	logged_user_id	6
+h5482.novius.net	FALSE	/	FALSE	1386431120.81379	logged_user_md5	8613ee3d8fce38d8f1b7a64e78bd861b
+h5482.novius.net	FALSE	/	FALSE	0	fuelfid	AasqyFSZvHhxvgqQjo86g8n4OU4Ttnghi9qhH_dB8Z1A5pqLq9pO20LdOHehbBjmfWuEKuppLJuOotVDrwsALTgxaTZvV0t3WWVBS25mZm9JbTdERTF1OXFuaHZxMGxUMVVITkROYjg1VjA
